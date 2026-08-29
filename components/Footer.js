@@ -18,7 +18,7 @@ export default function Footer() {
                 <Droplets className="w-5 h-5 text-white" />
               </div>
               <span className="text-xl font-bold tracking-wide text-foreground">
-                Pokhara<span className="text-transparent bg-clip-text bg-linear-to-r from-primary to-accent">Aquarium</span>
+                8848<span className="text-transparent bg-clip-text bg-linear-to-r from-primary to-accent"> Aquarium</span>
               </span>
             </Link>
             <p className="text-foreground/70 text-sm leading-relaxed mb-6">
@@ -51,7 +51,7 @@ export default function Footer() {
             <ul className="flex flex-col gap-4">
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-primary shrink-0" />
-                <span className="text-foreground/70 text-sm">Lakeside, Pokhara, Nepal<br/>Showroom Building 4</span>
+                <span className="text-foreground/70 text-sm">Lakeside, Kirtipur, Nepal<br/>Showroom Building 4</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-primary shrink-0" />
@@ -59,7 +59,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-primary shrink-0" />
-                <span className="text-foreground/70 text-sm">hello@pokharaaquarium.com</span>
+                <span className="text-foreground/70 text-sm">hello@8848gallery.com</span>
               </li>
             </ul>
           </div>
@@ -88,7 +88,7 @@ export default function Footer() {
 
         <div className="pt-8 border-t border-white/10 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-foreground/50 text-xs">
-            © {new Date().getFullYear()} Pokhara Aquarium. All rights reserved.
+            © {new Date().getFullYear()} 8848 Gallery Aquarium. All rights reserved.
           </p>
           <div className="flex items-center gap-6 text-xs text-foreground/50">
             <Link href="#" className="hover:text-white transition-colors">Privacy Policy</Link>

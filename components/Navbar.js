@@ -51,7 +51,7 @@ export default function Navbar() {
             <Droplets className="w-5 h-5 text-white" />
           </motion.div>
           <span className="text-xl font-bold tracking-wide text-foreground">
-            Pokhara<span className="text-transparent bg-clip-text bg-linear-to-r from-primary to-accent">Aquarium</span>
+            8848<span className="text-transparent bg-clip-text bg-linear-to-r from-primary to-accent"> Gallery</span>
           </span>
         </Link>
 
